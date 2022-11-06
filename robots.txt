@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://hallowdecor.github.io/home-decor/sitemapx.xml
